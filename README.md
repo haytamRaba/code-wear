@@ -37,8 +37,11 @@ To run this project locally:
   git clone https://github.com/your-username/codewear.git
   
  2.Navigate to the project directory
+ 
  3.Open index.html in your browser
+ 
  Current Development Status
+
 This project is currently in Phase 1, focusing on the HTML/CSS implementation. Phase 2 will introduce JavaScript functionality to make the site fully interactive.
 Acknowledgements
 Design inspiration from various e-commerce platforms
