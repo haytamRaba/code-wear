@@ -27,6 +27,19 @@ CSS3
 Google Fonts
 Font Awesome (for icons)
 
-Screenshots :
+Screenshot :
 ![screen1](https://github.com/user-attachments/assets/0f2c43e8-915d-4659-8617-1936117c4317)
+Getting Started
+
+To run this project locally:
+
+ 1.Clone this repository
+  git clone https://github.com/your-username/codewear.git
+ 2.Navigate to the project directory
+ 3.Open index.html in your browser
+ Current Development Status
+This project is currently in Phase 1, focusing on the HTML/CSS implementation. Phase 2 will introduce JavaScript functionality to make the site fully interactive.
+Acknowledgements
+Design inspiration from various e-commerce platforms
+Code references from web development courses and tutorials
 
