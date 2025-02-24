@@ -35,6 +35,7 @@ To run this project locally:
 
  1.Clone this repository
   git clone https://github.com/your-username/codewear.git
+  
  2.Navigate to the project directory
  3.Open index.html in your browser
  Current Development Status
